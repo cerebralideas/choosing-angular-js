@@ -4,6 +4,22 @@
 
 ## Who is the creator of the framework?
 
+"The essential premise at the heart of Backbone has always been to try and discover the minimal set of data-structuring (Models and Collections) and user interface (Views and URLs) primitives …
+
+In an ecosystem where overarching, decides-everything-for-you frameworks are commonplace, and many libraries require your site to be restructured to suit their look, feel, and default behavior — Backbone should continue to be a tool that gives you the freedom to design the full experience of your web application."
+
+— [Jeremy Ashkenas](http://ashkenas.com/backbonejs-1.0/)
+
+"HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop."
+
+— [AngularJS Team](http://angularjs.org/)
+
+"Write dramatically less code with Ember's Handlebars integrated templates that update automatically when the underlying data changes.
+
+Don't waste time making trivial choices. Ember.js incorporates common idioms so you can focus on what makes your app special, not reinventing the wheel."
+
+— [Ember Team](http://emberjs.com/about/)
+
 ## What kind of problem solving philosophy does the framework use?
 
 - Are problems solved with JS?

@@ -225,7 +225,7 @@ body {
 	display: inline-block;
 
 	text-align: left;
-	margin: 0 0 0 1em;
+	margin: 0 0 0.5em 1em;
 }
 
 .reveal ol {
@@ -253,8 +253,8 @@ body {
 }
 
 .reveal p {
-	margin-bottom: 10px;
-	line-height: 1.2em;
+	margin-bottom: 1em;
+	line-height: 1.25em;
 }
 
 .reveal q,
@@ -266,7 +266,7 @@ body {
 	display: block;
 	position: relative;
 	width: 70%;
-	margin: 5px auto;
+	margin: 0.5em auto;
 	padding: 5px;
 
 	font-style: italic;
