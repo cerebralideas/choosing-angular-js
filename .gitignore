@@ -1,1 +1,5 @@
+# Ignoring .idea directory from PhpStorm
 .idea
+
+# Ignoring .DS_Store files from Mac OS
+.DS_Store
